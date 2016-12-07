@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">Flora and Fauna</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="floraandFaunaActivity">Flora and Fauna</string>
+    <string formatted="false" name="floraandFaunaFormFormActivity"></string>
+    <string formatted="false" name="floraandFaunaMainActivity">Flora and Fauna</string>
+	
+	<!-- Navigation Titles -->
+    <string name="mainmenu_entry0">Home</string>
+    <string name="mainmenu_entry1">Exit</string>
+</resources>
+
