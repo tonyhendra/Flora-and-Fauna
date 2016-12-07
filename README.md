@@ -1,5 +1,5 @@
 #Flora-and-Fauna
-<br>Project Tugas Akhir Dicoding Akademi (IBM Bluemix), Fitur Bluemix yang digunakan :
+Project Tugas Akhir Dicoding Akademi (IBM Bluemix), Fitur Bluemix yang digunakan :
 - Cloudant DB
 - Push notification dengan firebase
 - Watson Text to Speech
